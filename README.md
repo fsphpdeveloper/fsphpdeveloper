@@ -8,9 +8,6 @@
 
 - [Website](https://www.luciolemos.com) 🌐 - Working on it. ✔️
 - [MySQL](https://www.mysql.com/) ✔️
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
-- [Vagrant](https://www.vagrantup.com/) ✔️
-- [Network and System Security](#) ✔️
 - [Data Governance](#) ✔️
 
 
