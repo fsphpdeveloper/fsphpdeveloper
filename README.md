@@ -10,6 +10,6 @@
 - [MySQL](https://www.mysql.com/) ✔️
 - [Data Governance](#) ✔️
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
-
+-->
