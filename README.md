@@ -1,14 +1,36 @@
-# Hey! 👤
+Привет, меня зовут Натан 👋
+🚀 О себе
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luciolemos)](https://github.com/luciolemos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucio-lemos-a550441a1/)](https://www.linkedin.com/in/lucio-lemos-a550441a1/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucciolemos)](https://twitter.com/lucciolemos)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
+Я начинающий разработчик и студент экономики из Бразилии.
+Интересуюсь веб-разработкой, анализом данных и экономическими исследованиями, особенно в области нефтяного рынка и макроэкономики.
 
+Сейчас изучаю:
 
-- [Website](https://www.luciolemos.com) 🌐 - Working on it. ✔️
-- [MySQL](https://www.mysql.com/) ✔️
-- [Data Governance](#) ✔️
+PHP и MVC архитектуру;
+Bootstrap и MySQL;
+JavaScript;
+Анализ данных и эконометрику.
+💻 Технологии и инструменты
+PHP
+JavaScript
+HTML & CSS
+Bootstrap
+MySQL
+Git & GitHub
+Python
+📚 Мои интересы
+Веб-разработка;
+Экономика нефти и энергетики;
+Анализ данных;
+Финансовые рынки;
+Open Source проекты.
+📈 GitHub статистика
+🌱 Постоянно изучаю новые технологии;
+🔥 Работаю над личными проектами;
+🎯 Цель — стать профессиональным full stack разработчиком.
+🌍 Контакты
+GitHub: github.com/seuusuario
+Email: seuemail@email.com
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
