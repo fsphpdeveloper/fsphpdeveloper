@@ -29,8 +29,7 @@ Open Source проекты.
 🔥 Работаю над личными проектами;
 🎯 Цель — стать профессиональным full stack разработчиком.
 🌍 Контакты
-GitHub: github.com/seuusuario
-Email: seuemail@email.com
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
